@@ -12,3 +12,4 @@ Follow these steps to run the project on your local machine:
 1. **Clone the repository**
    ```bash
  
+https://github.com/Durwang2002/-Customer-Segmentation-Using-K-Means-Clustering.git
